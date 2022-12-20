@@ -1,1 +1,1 @@
-# Python |Pandas| Selenium | Dynamic-table data|
+# Python | Pandas| Selenium | Dynamic-table data |
