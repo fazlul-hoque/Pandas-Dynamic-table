@@ -1,1 +1,1 @@
-# Pandas-Dynamic-table
+# Python |Pandas| Selenium | Dynamic-table data|
